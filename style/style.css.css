@@ -27,3 +27,24 @@ body{
 .logo img{
     width: 200px
 }
+/* table th td{
+    border: 1px solid black;
+    padding: 8px;
+} */
+mark{
+    display: grid;
+    background-color: blue;
+    color: black;
+    padding: 10px;
+    margin: 10px 0;
+    margin-left:0 ;
+}
+th{
+    border: 1px solid black;
+    padding: 8px;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 8px;
+}
